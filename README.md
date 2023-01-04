@@ -1,8 +1,6 @@
-### Greetings, comrade!
+# Repositories navigation
 
-My name is Tim Trofimenko, I am an independent developer.
-
-## Projects
+## Commercial projects
 
 * [**Cognitia I**](https://github.com/timattt/Cognitia-I)
 * [**Cognitia II**](https://github.com/timattt/Cognitia-II)
@@ -13,7 +11,7 @@ My name is Tim Trofimenko, I am an independent developer.
 * [**RedArchiever**](https://github.com/timattt/RedArchiever)
 * [**The chapter legacy**](https://github.com/timattt/TheChapterLegacy)
 
-## Science
+## Science projects
 
 * [**Computational math**](https://github.com/timattt/Computational-math)
 * [**Parallel programming**](https://github.com/timattt/Parallel-programming)

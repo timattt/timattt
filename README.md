@@ -3,7 +3,7 @@
 ## Projects
 
 ### C/C++
-🛠
+
 * [**Cognitia I**](https://github.com/timattt/Cognitia-I)
 * [**Cognitia II**](https://github.com/timattt/Cognitia-II) 🛠️
 * [**Rasterizer CPU**](https://github.com/timattt/Rasterizer-CPU)

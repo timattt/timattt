@@ -11,6 +11,7 @@ My name is Tim Trofimenko, I am an independent developer.
 * [**Lab killer**](https://github.com/timattt/Laboratory-calculations-optimizator)
 * [**Flappy bird CPU**](https://github.com/timattt/Flappy-bird-CPU)
 * [**RedArchiever**](https://github.com/timattt/RedArchiever)
+* [**The chapter legacy**](https://github.com/timattt/TheChapterLegacy)
 
 ## Science
 

@@ -14,6 +14,7 @@ My name is Tim Trofimenko, I am an independent developer.
 * [**Parallel programming**](https://github.com/timattt/Parallel-programming)
 * [**Algorithms collection**](https://github.com/timattt/Algorithms-collection)
 * [**Easy python calculator**](https://github.com/timattt/Easy-py-calculator)
+* [**RedAntivirus**](https://github.com/timattt/RedAntivirus)
 
 ## TODO
 

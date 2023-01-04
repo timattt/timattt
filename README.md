@@ -11,6 +11,7 @@ My name is Tim Trofimenko, I am an independent developer.
 
 ## Science
 
+* [**Computational math**](https://github.com/timattt/Computational-math)
 * [**Parallel programming**](https://github.com/timattt/Parallel-programming)
 * [**Algorithms collection**](https://github.com/timattt/Algorithms-collection)
 * [**Easy python calculator**](https://github.com/timattt/Easy-py-calculator)

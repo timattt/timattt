@@ -24,6 +24,7 @@ My name is Tim Trofimenko, I am an independent developer.
 ## Samples
 
 * [**LibGDX test application**](https://github.com/timattt/LibGDXTestGooglePlayApp)
+* [**OpenGL test application**](https://github.com/timattt/OpenGL-sample)
 
 ## TODO
 

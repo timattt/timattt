@@ -30,3 +30,9 @@
 ### Other
 
 * [**www.Timattt.su website**](https://github.com/timattt/Timattt.su) 🛠️
+
+## Legend
+
+* 🛠️ - work in progress
+* 🧪 - science project
+* 🧰 - sample project

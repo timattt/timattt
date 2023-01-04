@@ -10,6 +10,6 @@ My name is Tim Trofimenko, I am an independent developer.
 * [**Lab killer**](https://github.com/timattt/Laboratory-calculations-optimizator)
 * [**Easy python calculator**](https://github.com/timattt/Easy-py-calculator)
 
-## Education
+## Science
 
 * [**Parallel programming**](https://github.com/timattt/Parallel-programming)

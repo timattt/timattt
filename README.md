@@ -19,7 +19,7 @@
 * [**Parallel programming**](https://github.com/timattt/Parallel-programming)
 * [**Compilers**](https://github.com/timattt/Project-cpp)
 * [**Algorithms collection**](https://github.com/timattt/Algorithms-collection)
-* [**LUNEV**](https://github.com/timattt/Indestructible-shield-from-Lunev)
+* [**System programming**](https://github.com/timattt/Indestructible-shield-from-Lunev)
 
 ## Samples
 

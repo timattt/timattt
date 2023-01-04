@@ -1,6 +1,6 @@
 # Repositories navigation
 
-## Commercial projects
+## Projects
 
 * [**Cognitia I**](https://github.com/timattt/Cognitia-I)
 * [**Cognitia II**](https://github.com/timattt/Cognitia-II)
@@ -11,7 +11,7 @@
 * [**RedArchiever**](https://github.com/timattt/RedArchiever)
 * [**The chapter legacy**](https://github.com/timattt/TheChapterLegacy)
 
-## Science projects
+## Science
 
 * [**Computational math**](https://github.com/timattt/Computational-math)
 * [**Parallel programming**](https://github.com/timattt/Parallel-programming)

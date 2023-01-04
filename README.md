@@ -5,6 +5,7 @@ My name is Tim Trofimenko, I am an independent developer.
 ## Projects
 
 * [**Cognitia I**](https://github.com/timattt/Cognitia-I)
+* [**Cognitia II**](https://github.com/timattt/Cognitia-II)
 * [**www.Timattt.su website**](https://github.com/timattt/Timattt.su)
 * [**Lab killer**](https://github.com/timattt/Laboratory-calculations-optimizator)
 * [**Flappy bird CPU**](https://github.com/timattt/Flappy-bird-CPU)

@@ -26,6 +26,7 @@
 
 * [**Easy python calculator**](https://github.com/timattt/Easy-py-calculator)
 * [**Computational math**](https://github.com/timattt/Computational-math) 🧪
+* [**Machine learning**](https://github.com/timattt/ML) 🧪
 
 ### Other
 

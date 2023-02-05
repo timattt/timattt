@@ -17,6 +17,7 @@
 
 ### Java
 
+* [**Laplacity**](https://github.com/timattt/Laplacity)
 * [**Lab killer**](https://github.com/timattt/Laboratory-calculations-optimizator)
 * [**The chapter legacy**](https://github.com/timattt/TheChapterLegacy) 🛠️
 * [**Algorithms collection**](https://github.com/timattt/Algorithms-collection) 🧪

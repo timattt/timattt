@@ -10,6 +10,7 @@
 * [**Flappy bird CPU**](https://github.com/timattt/Flappy-bird-CPU)
 * [**RedArchiever**](https://github.com/timattt/RedArchiever)
 * [**RedAntivirus**](https://github.com/timattt/RedAntivirus)
+* [**RedCalculator**](https://github.com/timattt/RedCalculator)
 * [**Compilers**](https://github.com/timattt/Project-cpp) 🧪
 * [**Parallel programming**](https://github.com/timattt/Parallel-programming) 🧪
 * [**System programming**](https://github.com/timattt/Indestructible-shield-from-Lunev) 🧪

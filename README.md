@@ -1,5 +1,17 @@
 # Repositories navigation
 
+## WIP
+
+### Type-1
+
+* [**Backend**](https://github.com/timattt/TypeOneBackend)
+* [**Frontend**](https://github.com/timattt/TypeOneFrontend)
+* [**Core**](https://github.com/timattt/TypeOneCore)
+
+### 1C
+
+* [**Python backend**](https://github.com/timattt/MIPT-1C-Python-Course) 🧪
+
 ## Projects
 
 ### C/C++

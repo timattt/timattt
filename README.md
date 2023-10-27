@@ -10,7 +10,8 @@
 
 ### 1C
 
-* [**Python backend**](https://github.com/timattt/MIPT-1C-Python-Course) 🧪
+* [**Python backend course**](https://github.com/timattt/MIPT-1C-Python-Course) 🧪
+* [**Microservices course**](https://gitlab.com/timattttt/1c-microservices)
 
 ## Projects
 

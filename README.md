@@ -8,10 +8,13 @@
 * [**Frontend**](https://github.com/timattt/TypeOneFrontend)
 * [**Core**](https://github.com/timattt/TypeOneCore)
 
-### 1C
+### Type-6
 
-* [**Python backend course**](https://github.com/timattt/MIPT-1C-Python-Course) 🧪
-* [**Microservices course**](https://gitlab.com/timattttt/1c-microservices)
+* [**SSO**](https://github.com/timattt/TypeSix)
+
+### Type-7
+
+* [**Frontend**](https://github.com/timattt/TypeSeven)
 
 ## Projects
 

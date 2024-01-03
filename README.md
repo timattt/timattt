@@ -4,8 +4,6 @@
 
 ### Type-1
 
-Приложение, написанное в рамках нескольких курсов по ReactJS и Spring. Имеются говнокод и кривая архитектура, так как - это первый full-stack проект.
-
 * [**Backend**](https://github.com/timattt/TypeOneBackend)
 * [**Frontend**](https://github.com/timattt/TypeOneFrontend)
 * [**Core**](https://github.com/timattt/TypeOneCore)

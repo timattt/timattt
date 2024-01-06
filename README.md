@@ -11,6 +11,7 @@
 ### Type-6
 
 * [**SSO**](https://github.com/timattt/TypeSix)
+* [**Cloud**](https://github.com/timattt/TypeSixCloud)
 
 ### Type-7
 

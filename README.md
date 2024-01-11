@@ -12,6 +12,7 @@
 
 * [**SSO**](https://github.com/timattt/TypeSix)
 * [**Cloud**](https://github.com/timattt/TypeSixCloud)
+* [**VK-parser**](https://github.com/timattt/TypeSixD)
 
 ### Type-7
 

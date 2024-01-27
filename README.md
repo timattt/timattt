@@ -2,21 +2,18 @@
 
 ## WIP
 
-### Type-1
-
-* [**Backend**](https://github.com/timattt/TypeOneBackend)
-* [**Frontend**](https://github.com/timattt/TypeOneFrontend)
-* [**Core**](https://github.com/timattt/TypeOneCore)
-
 ### Type-6
 
-* [**SSO**](https://github.com/timattt/TypeSix)
 * [**Cloud**](https://github.com/timattt/TypeSixCloud)
-* [**VK-parser**](https://github.com/timattt/TypeSixD)
+* [**SSO**](https://github.com/timattt/TypeSix)
+* [**DataBaseCommon**](https://github.com/timattt/TypeSixDataBaseCommon)
 
 ### Type-7
 
-* [**Frontend**](https://github.com/timattt/TypeSeven)
+* [**MIPT.Match**](https://github.com/timattt/TypeSeven)
+* [**Type-7-M**](https://github.com/timattt/TypeSevenM)
+* [**Type-7-D**](https://github.com/timattt/TypeSevenD)
+* [**DataBaseCommon**](https://github.com/timattt/TypeSevenDataBaseCommon)
 
 ## Projects
 

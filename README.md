@@ -6,7 +6,7 @@
 
 #### Type-2
 
-* [**TgBot**](https://github.com/timattt/TypeTwo) - бот для ведения заметок с использованием YC-speech-kit.
+* [**CommisarOfPlanning**](https://github.com/timattt/TypeTwo) - бот для ведения заметок с использованием YC-speech-kit.
 
 #### Type-6
 

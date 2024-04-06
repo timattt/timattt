@@ -1,84 +1,38 @@
-# Repositories navigation
+# Навигация
 
-## Microservices
+[Полный список репозиториев](https://github.com/timattt/timattt/blob/master/articles/All.md)
 
-### Type-1
+### Используются в проде на данный момент
 
-* [**Core**](https://github.com/timattt/TypeOneCore)
-* [**Backend**](https://github.com/timattt/TypeOneBackend)
-* [**Frontend**](https://github.com/timattt/TypeOneFrontend)
+#### Type-2
 
-### Type-2
+* [**TgBot**](https://github.com/timattt/TypeTwo) - бот для ведения заметок с использованием YC-speech-kit.
 
-* [**TgBot**](https://github.com/timattt/TypeTwo)
+#### Type-6
 
-### Type-3
+* [**Cloud**](https://github.com/timattt/TypeSixCloud) - основной репозиторий с настройками облачной инфраструктуры.
+* [**SSO**](https://github.com/timattt/TypeSix) - сервер единой авторизации на протоколе oauth2.
+* [**DataBaseCommon**](https://github.com/timattt/TypeSixDataBaseCommon) - общий код базы данных для сервера авторизации.
 
-* [**Project**](https://github.com/timattt/TypeThree)
+#### Type-7
 
-### Type-6
+Группа сервисов в рамках проекта [**mipt.match**](https://mipt-match.ru/)
 
-* [**Cloud**](https://github.com/timattt/TypeSixCloud)
-* [**SSO**](https://github.com/timattt/TypeSix)
-* [**DataBaseCommon**](https://github.com/timattt/TypeSixDataBaseCommon)
+* [**MIPT.Match**](https://github.com/timattt/TypeSeven) - фронт сайте на ReactJS.
+* [**Type-7-M**](https://github.com/timattt/TypeSevenM) - сервис для обработки метаданных пользователей.
+* [**Type-7-D**](https://github.com/timattt/TypeSevenD) - сервис для поиска мэтча пользователей.
+* [**Type-7-J**](https://github.com/timattt/TypeSevenJ) - джоба для поиска мэтча пользователей.
+* [**DataBaseCommon**](https://github.com/timattt/TypeSevenDataBaseCommon) - общий код базы данных для проекта.
 
-### Type-7
+#### Type-8
 
-* [**MIPT.Match**](https://github.com/timattt/TypeSeven)
-* [**Type-7-M**](https://github.com/timattt/TypeSevenM)
-* [**Type-7-D**](https://github.com/timattt/TypeSevenD)
-* [**Type-7-J**](https://github.com/timattt/TypeSevenJ)
-* [**DataBaseCommon**](https://github.com/timattt/TypeSevenDataBaseCommon)
-
-### Type-8
+Шаблон для микросервиса на Java Spring и для фронта на ReactJS.
+**!!!TODO!!!**
 
 * [**Frontend**](https://github.com/timattt/TypeEight)
 * [**Type-8-T**](https://github.com/timattt/TypeEightT)
 
-### Type-9
+### Planned to deploy
 
-* [Frontend](https://github.com/timattt/TypeNine)
-
-## Projects
-
-### C/C++
-
-* [**Cognitia I**](https://github.com/timattt/Cognitia-I)
-* [**Cognitia II**](https://github.com/timattt/Cognitia-II)
-* [**Rasterizer CPU**](https://github.com/timattt/Rasterizer-CPU)
-* [**Flappy bird CPU**](https://github.com/timattt/Flappy-bird-CPU)
-* [**RedArchiever**](https://github.com/timattt/RedArchiever)
-* [**RedAntivirus**](https://github.com/timattt/RedAntivirus)
-* [**RedCalculator**](https://github.com/timattt/RedCalculator)
-* [**Compilers**](https://github.com/timattt/Project-cpp)
-* [**Parallel programming**](https://github.com/timattt/Parallel-programming)
-* [**System programming**](https://github.com/timattt/Indestructible-shield-from-Lunev)
-* [**OpenGL test application**](https://github.com/timattt/OpenGL-sample)
-* [**Http server**](https://github.com/timattt/HttpServer)
-
-### Java
-
-* [**Laplacity**](https://github.com/timattt/Laplacity)
-* [**Lab killer**](https://github.com/timattt/Laboratory-calculations-optimizator)
-* [**The chapter legacy**](https://github.com/timattt/TheChapterLegacy)
-* [**Algorithms collection**](https://github.com/timattt/Algorithms-collection)
-* [**LibGDX test application**](https://github.com/timattt/LibGDXTestGooglePlayApp)
-* [**Queued storage**](https://github.com/timattt/QueuedStorage/tree/master)
-* [**Hadoop samples**](https://github.com/timattt/HadoopSamples)
-* [**Nginx benchmarks**](https://github.com/timattt/NginxBenchmarks)
-
-### Python
-
-* [**Easy python calculator**](https://github.com/timattt/Easy-py-calculator)
-* [**Computational math**](https://github.com/timattt/Computational-math)
-* [**Machine learning**](https://github.com/timattt/ML)
-
-### Other
-
-* [**www.Timattt.su website**](https://github.com/timattt/Timattt.su)
-* [**TMP**](https://github.com/timattt/Tmp)
-* [**CODEX**](https://github.com/timattt/CODEX)
-
-### Kotlin
-
-* [**Kotlin sample**](https://github.com/timattt/KotlinSample)
+* [**Type-3**](https://github.com/timattt/TypeThree) - продолжение проекта [**LabKiller**](https://github.com/timattt/Laboratory-calculations-optimizator)
+* [**Type-9**](https://github.com/timattt/TypeNine) - переделка сайта [**Rutesil.ru**](https://www.rutesil.ru/)

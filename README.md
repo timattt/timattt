@@ -1,6 +1,20 @@
 # Repositories navigation
 
-## WIP
+## Microservices
+
+### Type-1
+
+* [**Core**](https://github.com/timattt/TypeOneCore)
+* [**Backend**](https://github.com/timattt/TypeOneBackend)
+* [**Frontend**](https://github.com/timattt/TypeOneFrontend)
+
+### Type-2
+
+* [**TgBot**](https://github.com/timattt/TypeTwo)
+
+### Type-3
+
+* [**Project**](https://github.com/timattt/TypeThree)
 
 ### Type-6
 
@@ -13,7 +27,17 @@
 * [**MIPT.Match**](https://github.com/timattt/TypeSeven)
 * [**Type-7-M**](https://github.com/timattt/TypeSevenM)
 * [**Type-7-D**](https://github.com/timattt/TypeSevenD)
+* [**Type-7-J**](https://github.com/timattt/TypeSevenJ)
 * [**DataBaseCommon**](https://github.com/timattt/TypeSevenDataBaseCommon)
+
+### Type-8
+
+* [**Frontend**](https://github.com/timattt/TypeEight)
+* [**Type-8-T**](https://github.com/timattt/TypeEightT)
+
+### Type-9
+
+* [Frontend](https://github.com/timattt/TypeNine)
 
 ## Projects
 
@@ -40,6 +64,8 @@
 * [**Algorithms collection**](https://github.com/timattt/Algorithms-collection)
 * [**LibGDX test application**](https://github.com/timattt/LibGDXTestGooglePlayApp)
 * [**Queued storage**](https://github.com/timattt/QueuedStorage/tree/master)
+* [**Hadoop samples**](https://github.com/timattt/HadoopSamples)
+* [**Nginx benchmarks**](https://github.com/timattt/NginxBenchmarks)
 
 ### Python
 
@@ -50,3 +76,9 @@
 ### Other
 
 * [**www.Timattt.su website**](https://github.com/timattt/Timattt.su)
+* [**TMP**](https://github.com/timattt/Tmp)
+* [**CODEX**](https://github.com/timattt/CODEX)
+
+### Kotlin
+
+* [**Kotlin sample**](https://github.com/timattt/KotlinSample)

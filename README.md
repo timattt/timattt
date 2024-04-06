@@ -2,7 +2,7 @@
 
 [Полный список репозиториев](https://github.com/timattt/timattt/blob/master/articles/All.md)
 
-### Используются в проде на данный момент
+### Развернуто в данный момент
 
 #### Type-2
 
@@ -32,7 +32,7 @@
 * [**Frontend**](https://github.com/timattt/TypeEight)
 * [**Type-8-T**](https://github.com/timattt/TypeEightT)
 
-### Planned to deploy
+### Запланировано к развертыванию
 
 * [**Type-3**](https://github.com/timattt/TypeThree) - продолжение проекта [**LabKiller**](https://github.com/timattt/Laboratory-calculations-optimizator)
 * [**Type-9**](https://github.com/timattt/TypeNine) - переделка сайта [**Rutesil.ru**](https://www.rutesil.ru/)

@@ -36,3 +36,7 @@
 
 * [**Type-3**](https://github.com/timattt/TypeThree) - продолжение проекта [**LabKiller**](https://github.com/timattt/Laboratory-calculations-optimizator)
 * [**Type-9**](https://github.com/timattt/TypeNine) - переделка сайта [**Rutesil.ru**](https://www.rutesil.ru/)
+
+### Прочее
+
+* [**Разные статьи**](https://github.com/timattt/Tmp)

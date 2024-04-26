@@ -18,7 +18,7 @@
 
 Группа сервисов в рамках проекта [**mipt.match**](https://mipt-match.ru/)
 
-* [**MIPT.Match**](https://github.com/timattt/TypeSeven) - фронт сайте на ReactJS.
+* [**MIPT.Match**](https://github.com/timattt/TypeSeven) - фронт сайта на ReactJS.
 * [**Type-7-M**](https://github.com/timattt/TypeSevenM) - сервис для обработки метаданных пользователей.
 * [**Type-7-D**](https://github.com/timattt/TypeSevenD) - сервис для поиска мэтча пользователей.
 * [**Type-7-J**](https://github.com/timattt/TypeSevenJ) - джоба для поиска мэтча пользователей.

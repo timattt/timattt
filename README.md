@@ -6,31 +6,23 @@
 
 #### Type-2
 
-* [**CommisarOfPlanning**](https://github.com/timattt/TypeTwo) - бот для ведения заметок с использованием YC-speech-kit.
+* [**Commisar-Of-planning**](https://github.com/timattt/TypeTwo) - бот для ведения заметок с использованием YC-speech-kit.
 
 #### Type-6
 
 * [**Cloud**](https://github.com/timattt/TypeSixCloud) - основной репозиторий с настройками облачной инфраструктуры.
 * [**SSO**](https://github.com/timattt/TypeSix) - сервер единой авторизации на протоколе oauth2.
-* [**DataBaseCommon**](https://github.com/timattt/TypeSixDataBaseCommon) - общий код базы данных для сервера авторизации.
-
-#### Type-7
-
-Группа сервисов в рамках проекта [**mipt.match**](https://mipt-match.ru/)
-
-* [**MIPT.Match**](https://github.com/timattt/TypeSeven) - фронт сайта на ReactJS.
-* [**Type-7-M**](https://github.com/timattt/TypeSevenM) - сервис для обработки метаданных пользователей.
-* [**Type-7-D**](https://github.com/timattt/TypeSevenD) - сервис для поиска мэтча пользователей.
-* [**Type-7-J**](https://github.com/timattt/TypeSevenJ) - джоба для поиска мэтча пользователей.
-* [**DataBaseCommon**](https://github.com/timattt/TypeSevenDataBaseCommon) - общий код базы данных для проекта.
+* [**SSO business logic**](https://github.com/timattt/TypeSixDataBaseCommon) - бизнес-логика для SSO.
 
 #### Type-8
 
-Шаблон для микросервиса на Java Spring и для фронта на ReactJS.
-**!!!TODO!!!**
+Шаблон для JS-фронта на React.
 
 * [**Frontend**](https://github.com/timattt/TypeEight)
-* [**Type-8-T**](https://github.com/timattt/TypeEightT)
+
+#### Type-10
+
+* [**Email sender**](https://github.com/timattt/TypeTen) - сервис для отправки сообщений, общается с SSO через очередь сообщений.
 
 ### Запланировано к развертыванию
 

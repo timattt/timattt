@@ -20,6 +20,12 @@
 
 * [**Frontend**](https://github.com/timattt/TypeEight)
 
+#### Type-9
+
+Миграция сайта компании www.rutesil.ru
+
+* [**Rutesil**](https://github.com/timattt/TypeNine)
+
 #### Type-10
 
 * [**Email sender**](https://github.com/timattt/TypeTen) - сервис для отправки сообщений, общается с SSO через очередь сообщений.

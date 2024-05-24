@@ -60,7 +60,6 @@ Full-stack-проекты, микросервисы, веб-приложения
 Избранные репозитории с учебными и тестовыми материалами.
 
 * **Java**
-* * [**Algorithms collection**](https://github.com/timattt/Algorithms-collection)
 * * [**Nginx benchmarks**](https://github.com/timattt/NginxBenchmarks)
 * * [**QueuedStorage**](https://github.com/timattt/QueuedStorage)
 * **C++** 

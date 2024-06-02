@@ -37,11 +37,11 @@ Full-stack-проекты, микросервисы, веб-приложения
 
 ### Домены
 
-* * [**service.shlimtech.org**](https://service.shlimtech.org/sso/pages/login) - домен для SSO и прочих сервисов.
-* * [**pattern.shlimtech.org**](https://pattern.shlimtech.org) - здесь работает шаблон фронта.
-* * [**messenger.shlimtech.org**](https://messenger.shlimtech.org) - домен для мессенджера.
-* * [**grafana.shlimtech.org**](https://grafana.shlimtech.org) - домен для графаны.
-* * [**rutesil.shlimtech.org**](https://rutesil.shlimtech.org) - здесь работает сайт компании Rutesil.
+* * [**service.shlimtech.org**](https://service.mipt.io/sso/pages/login) - домен для SSO и прочих сервисов.
+* * [**pattern.shlimtech.org**](https://pattern.mipt.io) - здесь работает шаблон фронта.
+* * [**messenger.shlimtech.org**](https://messenger.mipt.io) - домен для мессенджера.
+* * [**grafana.shlimtech.org**](https://grafana.mipt.io) - домен для графаны.
+* * [**rutesil.shlimtech.org**](https://rutesil.mipt.io) - здесь работает сайт компании Rutesil.
 
 ## Нативные проекты
 
